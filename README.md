@@ -1,7 +1,6 @@
 # Algorithm
 
 > BOJ
-
 1. [입출력과 사칙연산][BOJ1stlink]
 
 [BOJ1stlink]: https://www.acmicpc.net/step/1
