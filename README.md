@@ -2,14 +2,23 @@
 
 >   BOJ
 >   1. [입출력과 사칙연산][BOJ1stlink]
+>
 >   2. [if문][BOJ2ndlink]
+>
 >   3. [for문][BOJ3rdlink]
+>
 >   4. [while문][BOJ4thlink]
+>
 >   5. [1차원 배열][BOJ5thlink]
+>
 >   6. [함수][BOJ6thlink]
+>
 >   7. [문자열][BOJ7thlink]
+>
 >   8. [기본 수학 1][BOJ8thlink]
+>
 >   9. [기본 수학 2][BOJ9thlink]
+>
 >   10. [재귀][BOJ10thlink]
 
 11. 브루트 포스
