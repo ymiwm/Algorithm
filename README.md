@@ -1,6 +1,9 @@
 # Algorithm
 
->   BOJ
+
+
+## BOJ
+
 >   1. [입출력과 사칙연산][BOJ1stlink]
 >
 >   2. [if문][BOJ2ndlink]
