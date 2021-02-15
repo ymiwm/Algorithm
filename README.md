@@ -41,63 +41,63 @@
 >
 >   20. [이분 탐색][BOJ20thlink]
 >
->   21. 우선순위 큐
+>   21. [우선순위 큐][BOJ21stlink]
 >
->   22. 동적 계획법 2
+>   22. [동적 계획법 2][BOJ22ndlink]
 >
->   23. DFS와 BFS
+>   23. [DFS와 BFS][BOJ23rdlink]
 >
->   24. 최단 경로
+>   24. [최단 경로][BOJ24thlink]
 >
->   25. 투 포인터
+>   25. [투 포인터][BOJ25thlink]
 >
->   26. 동적 계획법과 최단거리 역추적
+>   26. [동적 계획법과 최단거리 역추적][BOJ26thlink]
 >
->   27. 트리
+>   27. [트리][BOJ27thlink]
 >
->   28. 유니온 파인드
+>   28. [유니온 파인드][BOJ28thlink]
 >
->   29. 최소 신장 트리
+>   29. [최소 신장 트리][BOJ29thlink]
 >
->   30. 트리에서의 동적 계획법
+>   30. [트리에서의 동적 계획법][BOJ30thlink]
 >
->   31. 기하
+>   31. [기하][BOJ31stlink]
 >
->   32. 동적 계획법 3
+>   32. [동적 계획법 3][BOJ32ndlink]
 >
->   33. 문자열 알고리즘 1
+>   33. [문자열 알고리즘 1][BOJ33rdlink]
 >
->   34. 위상 정렬
+>   34. [위상 정렬][BOJ34thlink]
 >
->   35. 최소 공통 조상
+>   35. [최소 공통 조상][BOJ35thlink]
 >
->   36. 강한 연결 요소
+>   36. [강한 연결 요소][BOJ36thlink]
 >
->   37. 세그먼트 트리
+>   37. [세그먼트 트리][BOJ37thlink]
 >
->   38. 스위핑
+>   38. [스위핑][BOJ38thlink]
 >
->   39. 동적 계획법 4
+>   39. [동적 계획법 4][BOJ39thlink]
 >
->   40. 컨벡스 헐
+>   40. [컨벡스 헐][BOJ40thlink]
 >
->   41. 이분 매칭
+>   41. [이분 매칭][BOJ41stlink]
 >
->   42. 네트워크 플로우
+>   42. [네트워크 플로우][BOJ42ndlink]
 >
->   43. MCMF
+>   43. [MCMF][BOJ43rdlink]
 >
->   44. 더 어려운 수학
+>   44. [더 어려운 수학][BOJ44thlink]
 >
->   45. 고속 푸리에 변환
+>   45. [고속 푸리에 변환][BOJ45thlink]
 >
->   46. 문자열 알고리즘 2
+>   46. [문자열 알고리즘 2][BOJ46thlink]
 >
->   47. 어려운 구간 쿼리
+>   47. [어려운 구간 쿼리][BOJ47thlink]
 >
->   48. 동적 계획법 최적화
+>   48. [동적 계획법 최적화][BOJ48thlink]
 >
->   49. 매우 어려운 자료구조와 알고리즘 (수정 예정)
+>   49. [매우 어려운 자료구조와 알고리즘 (수정 예정)][BOJ49thlink]
 
 [BOJ1stlink]: https://www.acmicpc.net/step/1
 [BOJ2ndlink]: https://www.acmicpc.net/step/2
@@ -119,3 +119,32 @@
 [BOJ18thlink]: https://www.acmicpc.net/step/18
 [BOJ19thlink]: https://www.acmicpc.net/step/19
 [BOJ20thlink]: https://www.acmicpc.net/step/20
+[BOJ21stlink]: https://www.acmicpc.net/step/21
+[BOJ22ndlink]: https://www.acmicpc.net/step/22
+[BOJ23rdlink]: https://www.acmicpc.net/step/23
+[BOJ24thlink]: https://www.acmicpc.net/step/24
+[BOJ25thlink]: https://www.acmicpc.net/step/25
+[BOJ26thlink]: https://www.acmicpc.net/step/26
+[BOJ27thlink]: https://www.acmicpc.net/step/27
+[BOJ28thlink]: https://www.acmicpc.net/step/28
+[BOJ29thlink]: https://www.acmicpc.net/step/29
+[BOJ30thlink]: https://www.acmicpc.net/step/30
+[BOJ31stlink]: https://www.acmicpc.net/step/31
+[BOJ32ndlink]: https://www.acmicpc.net/step/32
+[BOJ33rdlink]: https://www.acmicpc.net/step/33
+[BOJ34thlink]: https://www.acmicpc.net/step/34
+[BOJ35thlink]: https://www.acmicpc.net/step/35
+[BOJ36thlink]: https://www.acmicpc.net/step/36
+[BOJ37thlink]: https://www.acmicpc.net/step/37
+[BOJ38thlink]: https://www.acmicpc.net/step/38
+[BOJ39thlink]: https://www.acmicpc.net/step/39
+[BOJ40thlink]: https://www.acmicpc.net/step/40
+[BOJ41stlink]: https://www.acmicpc.net/step/41
+[BOJ42ndlink]: https://www.acmicpc.net/step/42
+[BOJ43rdlink]: https://www.acmicpc.net/step/43
+[BOJ44thlink]: https://www.acmicpc.net/step/44
+[BOJ45thlink]: https://www.acmicpc.net/step/45
+[BOJ46thlink]: https://www.acmicpc.net/step/46
+[BOJ47thlink]: https://www.acmicpc.net/step/47
+[BOJ48thlink]: https://www.acmicpc.net/step/48
+[BOJ49thlink]: https://www.acmicpc.net/step/49
