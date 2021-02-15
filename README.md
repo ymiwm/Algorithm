@@ -3,10 +3,10 @@
 ## BOJ
 
 >   1. [입출력과 사칙연산][BOJ1stlink]
->   * [C++][1stC++link]
+>   *       [C++][1stC++link]
 >
 >   2. [if문][BOJ2ndlink]
->   * [C++][2ndC++link]
+>   *  [C++][2ndC++link]
 >
 >   3. [for문][BOJ3rdlink]
 >
