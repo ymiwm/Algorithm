@@ -1,29 +1,46 @@
 # Algorithm
 
-> BOJ
-1. [입출력과 사칙연산][BOJ1stlink]
+>   BOJ
+
+>   1. [입출력과 사칙연산][BOJ1stlink]
 
 [BOJ1stlink]: https://www.acmicpc.net/step/1
 
-2. [if문][BOJ2ndlink]
+>   2. [if문][BOJ2ndlink]
 
 [BOJ2ndlink]: https://www.acmicpc.net/step/2
 
-3. for문
+>   3. [for문][BOJ3rdlink]
 
-4. while문
+[BOJ3rdlink]: https://www.acmicpc.net/step/3
 
-5. 1차원 배열
+4. [while문][BOJ4thlink]
 
-6. 함수
+[BOJ4thlink]: https://www.acmicpc.net/step/4
 
-7. 문자열
+5. [1차원 배열][BOJ5thlink]
 
-8. 기본 수학 1
+[BOJ5thlink]: https://www.acmicpc.net/step/5
 
-9. 기본 수학 2
+6. [함수][BOJ6thlink]
 
-10. 재귀
+[BOJ6thlink]: https://www.acmicpc.net/step/6
+
+7. [문자열][BOJ7thlink]
+
+[BOJ7thlink]: https://www.acmicpc.net/step/7
+
+8. [기본 수학 1][BOJ8thlink]
+
+[BOJ8thlink]: https://www.acmicpc.net/step/8
+
+9. [기본 수학 2][BOJ9thlink]
+
+[BOJ9thlink]: https://www.acmicpc.net/step/9
+
+10. [재귀][BOJ10thlink]
+
+[BOJ10thlink]: https://www.acmicpc.net/step/10
 
 11. 브루트 포스
 
