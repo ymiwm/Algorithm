@@ -1,15 +1,12 @@
 # Algorithm
 
 >   BOJ
-
 >   1. [입출력과 사칙연산][BOJ1stlink]
 
 [BOJ1stlink]: https://www.acmicpc.net/step/1
-
 >   2. [if문][BOJ2ndlink]
 
 [BOJ2ndlink]: https://www.acmicpc.net/step/2
-
 >   3. [for문][BOJ3rdlink]
 
 [BOJ3rdlink]: https://www.acmicpc.net/step/3
