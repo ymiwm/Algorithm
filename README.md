@@ -2,35 +2,34 @@
 
 ## BOJ
 
-
 >   1. [입출력과 사칙연산](https://www.acmicpc.net/step/1){:target="_blank"}
 >       * [C++](https://github.com/ymiwm/Algorithm/tree/main/BOJ/C%2B%2B/1st){:target="_blank"}
 >
 >   2. [if문](https://www.acmicpc.net/step/4){:target="_blank"}
 >       * [C++](https://github.com/ymiwm/Algorithm/tree/main/BOJ/C%2B%2B/2nd){:target="_blank"}
 >
->   3. [for문][BOJ3rdlink]
+>   3. [for문](https://www.acmicpc.net/step/3){:target="_blank"}
 >
 >
->   4. [while문][BOJ4thlink]
+>   4. [while문](https://www.acmicpc.net/step/2){:target="_blank"}
 >
 >
->   5. [1차원 배열][BOJ5thlink]
+>   5. [1차원 배열](https://www.acmicpc.net/step/6){:target="_blank"}
 >
 >
->   6. [함수][BOJ6thlink]
+>   6. [함수](https://www.acmicpc.net/step/5){:target="_blank"}
 >
 >
->   7. [문자열][BOJ7thlink]
+>   7. [문자열](https://www.acmicpc.net/step/7){:target="_blank"}
 >
 >
->   8. [기본 수학 1][BOJ8thlink]
+>   8. [기본 수학 1](https://www.acmicpc.net/step/8){:target="_blank"}
 >
 >
->   9. [기본 수학 2][BOJ9thlink]
+>   9. [기본 수학 2](https://www.acmicpc.net/step/10){:target="_blank"}
 >
 >
->   10. [재귀][BOJ10thlink]
+>   10. [재귀](https://www.acmicpc.net/step/19){:target="_blank"}
 >
 >
 >   11. [브루트 포스][BOJ11thlink]
@@ -150,14 +149,6 @@
 >   49. [매우 어려운 자료구조와 알고리즘 (수정 예정)][BOJ49thlink]
 >
 
-[BOJ3rdlink]: https://www.acmicpc.net/step/3
-[BOJ4thlink]: https://www.acmicpc.net/step/2
-[BOJ5thlink]: https://www.acmicpc.net/step/6
-[BOJ6thlink]: https://www.acmicpc.net/step/5
-[BOJ7thlink]: https://www.acmicpc.net/step/7
-[BOJ8thlink]: https://www.acmicpc.net/step/8
-[BOJ9thlink]: https://www.acmicpc.net/step/10
-[BOJ10thlink]: https://www.acmicpc.net/step/19
 [BOJ11thlink]: https://www.acmicpc.net/step/22
 [BOJ12thlink]: https://www.acmicpc.net/step/9
 [BOJ13thlink]: https://www.acmicpc.net/step/34
