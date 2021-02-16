@@ -101,4 +101,4 @@
 >   49. [매우 어려운 자료구조와 알고리즘 (수정 예정)](https://www.acmicpc.net/step/46)
 >       * [C++]()
 
-[![Cpluscplus References Network](https://cplusplus.com/v322/bg.png)](https://www.cplusplus.com/)
+[![Cpluscplus References Network](http://cplusplus.com/img/cpp-logo.png)](https://www.cplusplus.com/)
