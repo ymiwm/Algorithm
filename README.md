@@ -2,34 +2,33 @@
 
 ## BOJ
 
->   1. [입출력과 사칙연산](https://www.acmicpc.net/step/1){: target="_blank"}
->       * [C++](https://github.com/ymiwm/Algorithm/tree/main/BOJ/C%2B%2B/1st){:target="_blank"}
+>   1. [입출력과 사칙연산](https://www.acmicpc.net/step/1)
+>       * [C++](https://github.com/ymiwm/Algorithm/tree/main/BOJ/C%2B%2B/1st)
+>   2. [if문](https://www.acmicpc.net/step/4)
+>       * [C++](https://github.com/ymiwm/Algorithm/tree/main/BOJ/C%2B%2B/2nd)
 >
->   2. [if문](https://www.acmicpc.net/step/4){:target="_blank"}
->       * [C++](https://github.com/ymiwm/Algorithm/tree/main/BOJ/C%2B%2B/2nd){:target="_blank"}
->
->   3. [for문](https://www.acmicpc.net/step/3){:target="_blank"}
->
->
->   4. [while문](https://www.acmicpc.net/step/2){:target="_blank"}
+>   3. [for문](https://www.acmicpc.net/step/3)
 >
 >
->   5. [1차원 배열](https://www.acmicpc.net/step/6){:target="_blank"}
+>   4. [while문](https://www.acmicpc.net/step/2)
 >
 >
->   6. [함수](https://www.acmicpc.net/step/5){:target="_blank"}
+>   5. [1차원 배열](https://www.acmicpc.net/step/6)
 >
 >
->   7. [문자열](https://www.acmicpc.net/step/7){:target="_blank"}
+>   6. [함수](https://www.acmicpc.net/step/5)
 >
 >
->   8. [기본 수학 1](https://www.acmicpc.net/step/8){:target="_blank"}
+>   7. [문자열](https://www.acmicpc.net/step/7)
 >
 >
->   9. [기본 수학 2](https://www.acmicpc.net/step/10){:target="_blank"}
+>   8. [기본 수학 1](https://www.acmicpc.net/step/8)
 >
 >
->   10. [재귀](https://www.acmicpc.net/step/19){:target="_blank"}
+>   9. [기본 수학 2](https://www.acmicpc.net/step/10)
+>
+>
+>   10. [재귀](https://www.acmicpc.net/step/19)
 >
 >
 >   11. [브루트 포스][BOJ11thlink]
