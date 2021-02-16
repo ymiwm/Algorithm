@@ -2,7 +2,7 @@
 
 ## BOJ
 
->   1. [입출력과 사칙연산](https://www.acmicpc.net/step/1){:target="_blank"}
+>   1. [입출력과 사칙연산](https://www.acmicpc.net/step/1){: target="_blank"}
 >       * [C++](https://github.com/ymiwm/Algorithm/tree/main/BOJ/C%2B%2B/1st){:target="_blank"}
 >
 >   2. [if문](https://www.acmicpc.net/step/4){:target="_blank"}
