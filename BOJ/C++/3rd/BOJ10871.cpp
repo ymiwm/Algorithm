@@ -1,26 +1,18 @@
 #include <bits/stdc++.h>
 
-using namespace std;
-
-// 1 <= N, X <= 10,000
 void func1(void)
 {
     int N, X;
-
-    cin >> N >> X;
-
+    std::cin >> N >> X;
     int arr[N];
     int temp = 0;
-
     while(temp < N)
-        cin >> arr[temp++];
-
+        std::cin >> arr[temp++];
     temp = 0;
-
     while(temp < N)
     {
         if(arr[temp] < X)
-            cout << arr[temp] << ' ';
+            std::cout << arr[temp] << ' ';
         temp++;
     }
 }
