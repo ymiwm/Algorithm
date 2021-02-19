@@ -28,5 +28,3 @@ int main(void)
         std::cout << res << "%\n";
     }
 }
-
-// Refactoring
