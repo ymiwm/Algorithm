@@ -4,16 +4,13 @@ void func1(void)
 {
     int N, X;
     std::cin >> N >> X;
-    int arr[N];
-    int temp = 0;
-    while(temp < N)
-        std::cin >> arr[temp++];
-    temp = 0;
-    while(temp < N)
+    std::vector<int> vec(N);
+    for(int i = 0; i < N; i++)
+        std::cin >> vec.at(i);
+    for(int i = 0; i < N; i++)
     {
-        if(arr[temp] < X)
-            std::cout << arr[temp] << ' ';
-        temp++;
+        if(vec.at(i) < X)
+            std::cout << vec.at(i) << ' ';
     }
 }
 
