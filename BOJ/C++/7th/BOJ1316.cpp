@@ -1,3 +1,5 @@
+// 이게 왜 되지
+
 #include <bits/stdc++.h>
 
 int main(void)
@@ -16,11 +18,12 @@ int main(void)
             {
                 for(int k = j; k < str.size(); k++)
                 {
+                    // flag.at(str.at(j) - 'a') = true; to line 26
                     if(str.at(j) == str.at(k))
                         continue;
                     else
                     {
-                        flag.at(str.at(j) - 'a') = true;
+                        flag.at(str.at(j) - 'a') = true; //
                         j = k - 1;
                         break;
                     }
