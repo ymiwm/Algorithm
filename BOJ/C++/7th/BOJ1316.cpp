@@ -1,5 +1,3 @@
-// 이게 왜 되지?
-
 #include <bits/stdc++.h>
 
 int main(void)
