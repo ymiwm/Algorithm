@@ -18,12 +18,12 @@ int main(void)
             {
                 for(int k = j; k < str.size(); k++)
                 {
-                    // flag.at(str.at(j) - 'a') = true; to line 26
+                    // flag.at(str.at(j) - 'a') = true; to line 26.
                     if(str.at(j) == str.at(k))
                         continue;
                     else
                     {
-                        flag.at(str.at(j) - 'a') = true; // from line 21
+                        flag.at(str.at(j) - 'a') = true; // from line 21.
                         j = k - 1;
                         break;
                     }
