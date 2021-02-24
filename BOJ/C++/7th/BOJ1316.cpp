@@ -23,7 +23,7 @@ int main(void)
                         continue;
                     else
                     {
-                        flag.at(str.at(j) - 'a') = true; //
+                        flag.at(str.at(j) - 'a') = true; // from line 21
                         j = k - 1;
                         break;
                     }
