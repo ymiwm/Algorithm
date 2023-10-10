@@ -17,7 +17,7 @@ Info up();
 Info down();
 void output();
 
-bool flag = false;
+bool flag;
 int N, M, res;
 string line;
 queue<Info> q;
@@ -34,7 +34,6 @@ int main(void)
 void input()
 {
     cin >> N >> M;
-    info.count = 0;
     for(int i = 0; i < N; i++)
     {
         cin >> line;
@@ -47,6 +46,7 @@ void input()
         }
         board.push_back(line);
     }
+    info.count = 0;
     info.cur = board;
 }
 
@@ -117,17 +117,128 @@ Info left()
 
 Info right()
 {
-    
+    ninfo = info;
+    for(int i = info.r.second + 1; i < M; i++)
+    {
+        if(info.cur[info.r.first][i] == 'O')
+        {
+            flag = true;
+            ninfo.r.second = i;
+            break;
+        }
+        else if(info.cur[info.r.first][i] == '#')
+        {
+            ninfo.r.second = i - 1;
+            break;
+        }
+    }
+    for(int i = info.b.second + 1; i < M; i++)
+    {
+        if(info.cur[info.b.first][i] == 'O')
+        {
+            if(flag && info.r.second - info.b.second < 0)
+            {
+                flag = false;
+                ninfo.count = -1;
+            }
+            ninfo.b.second = i;
+            break;
+        }
+        else if(info.cur[info.b.first][i] == '#')
+        {
+            ninfo.b.second = i - 1;
+            break;
+        }
+    }
+    ninfo.cur[info.r.first][info.r.second] = '.';
+    ninfo.cur[info.b.first][info.b.second] = '.';
+    ninfo.cur[ninfo.r.first][ninfo.r.second] = 'R';
+    ninfo.cur[ninfo.b.first][ninfo.b.second] = 'B';
+    return ninfo;
 }
 
 Info up()
 {
-    
+    ninfo = info;
+    for(int i = info.r.first - 1; i >= 0; i--)
+    {
+        if(info.cur[i][info.r.second] == 'O')
+        {
+            flag = true;
+            ninfo.r.first = i;
+            break;
+        }
+        else if(info.cur[i][info.r.second] == '#')
+        {
+            ninfo.r.first = i + 1;
+            break;
+        }
+    }
+    for(int i = info.b.first - 1; i >= 0; i--)
+    {
+        if(info.cur[i][info.b.second] == 'O')
+        {
+            if(flag && info.r.second - info.b.second > 0)
+            {
+                flag = false;
+                ninfo.count = -1;
+            }
+            ninfo.b.first = i;
+            break;
+        }
+        else if(info.cur[i][info.b.second] == '#')
+        {
+            ninfo.b.first = i + 1;
+            break;
+        }
+    }
+    ninfo.cur[info.r.first][info.r.second] = '.';
+    ninfo.cur[info.b.first][info.b.second] = '.';
+    ninfo.cur[ninfo.r.first][ninfo.r.second] = 'R';
+    ninfo.cur[ninfo.b.first][ninfo.b.second] = 'B';
+    return ninfo;
 }
 
 Info down()
 {
-    
+    ninfo = info;
+    for(int i = info.r.first + 1; i < M; i++)
+    {
+        if(info.cur[i][info.r.second] == 'O')
+        {
+            flag = true;
+            ninfo.r.first = i;
+            break;
+        }
+        else if(info.cur[i][info.r.second] == '#')
+        {
+            ninfo.r.first = i - 1;
+            break;
+        }
+    }
+    for(int i = info.b.first + 1; i < M; i++)
+    {
+        if(info.cur[i][info.b.second] == 'O')
+        {
+            if(flag && info.r.second - info.b.second > 0)
+            {
+                flag = false;
+                ninfo.count = -1;
+            }
+            ninfo.b.first = i;
+            break;
+        }
+        else if(info.cur[i][info.b.second] == '#')
+        {
+            ninfo.b.first = i - 1;
+            break;
+        }
+    }
+    ninfo.cur[info.r.first][info.r.second] = '.';
+    ninfo.cur[info.b.first][info.b.second] = '.';
+    ninfo.cur[ninfo.r.first][ninfo.r.second] = 'R';
+    ninfo.cur[ninfo.b.first][ninfo.b.second] = 'B';
+    return ninfo;
 }
 
 void output()
